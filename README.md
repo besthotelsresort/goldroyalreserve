@@ -1,0 +1,2 @@
+# goldroyalreserve
+Static site: goldroyalreserve
